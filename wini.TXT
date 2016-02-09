@@ -1,2 +1,6 @@
 Merci
+<<<<<<< HEAD
 Beaucoups
+=======
+Bien
+>>>>>>> origin/master
